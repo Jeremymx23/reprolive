@@ -32,43 +32,23 @@ option:disabled{background:red;color:#fff}
 .nav-pills.nav-justified{display:block}
 }
 .btn-custom.focus,.btn-custom:focus,.btn-custom:hover{color:#fff!important;background-image:linear-gradient(248deg,#673ab7,#3f51b5);background-color:#3f51b5;border-color:#3f51b5;box-shadow:0 0 0 .2rem rgb(63 81 181 / 20%)}
-
 .bg-dark{background-image:linear-gradient(248deg,#222,#333)}
-
-#player{position:absolute;width:100%!important;height:100%!important}
-
 #footer .nav-link:focus,#footer .nav-link:hover{color:rgba(255,255,255,.75)}
-
 #player video{pointer-events:none!important}
-
 .jw-knob{width:1.3em!important;height:1.3em!important}
-
 .jw-dock-image{background-size:20px;opacity:1!important}
-
 .jw-captions-text,.jw-text-track-cue{background-color:rgba(0,0,0,0);text-shadow:#000 -2px 0 1px,#000 2px 0 1px,#000 0 -2px 1px,#000 0 2px 1px,#000 -1px 1px 1px,#000 1px 1px 1px,#000 1px -1px 1px,#000 1px 1px 1px}
-
 .jwplayer .jw-rightclick .jw-rightclick-list{display:none!important}
-
 .jw-settings-content-item:hover,:not(.jw-flag-touch) .jw-option:hover{background:rgba(217,217,217,.08)}
-
 .jw-settings-item-active::before,.jw-settings-open .jw-icon-settings::after{display:none!important}
-
 .jw-settings-topbar{background-color:transparent!important}
-
 .jw-settings-menu{background-color:rgba(0,0,0,.6)!important}
-
 .jw-settings-submenu{padding:9px 0!important}
-
 #jw-settings-submenu-captions{padding:0!important}
-
 .jw-settings-submenu.jw-settings-submenu-active{overflow-x:hidden}
-
 .jw-settings-submenu .jw-submenu-topbar{margin:0!important}
-
 .jw-settings-content-item{padding:9px 15px!important}
-
 .jw-button-container .jw-icon-rewind,.jw-controlbar .jw-icon-rewind,.jwplayer .jw-rightclick.jw-open{display:none!important}
-
 .jw-display-icon-next .jw-icon-next,.jw-display-icon-rewind .jw-icon-rewind{display:none!important}
 
 .jw-settings-content-item{font-size:14px!important}
